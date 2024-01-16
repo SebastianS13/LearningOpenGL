@@ -11,6 +11,6 @@ Made by following [The Cherno's](https://www.youtube.com/@TheCherno) c++ OpenGl 
 Libraries im using:
 - GLFW
 
-#Compiling
+# Compiling
 
 I cant figure out how to do CMAKE and this is not meant to be a serious project although if you want to make me a cmakelists file then go right ahead.
