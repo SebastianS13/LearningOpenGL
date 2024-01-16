@@ -9,7 +9,7 @@ Use it to learn yourself. This is the first time I really tried to make anything
 Made by following [The Cherno's](https://www.youtube.com/@TheCherno) c++ OpenGl [series](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)
 
 Libraries im using:
-- GLFWE
+- GLFW
 
 #Compiling
 
